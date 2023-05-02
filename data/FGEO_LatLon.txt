@@ -1,0 +1,1 @@
+site	full_site	lat	lonbci	BCI	9.1543	-79.8461cc	Cocoli	8.9877	-79.6166
